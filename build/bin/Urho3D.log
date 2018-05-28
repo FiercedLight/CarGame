@@ -1,0 +1,96 @@
+[Sat May 19 17:32:17 2018] INFO: Opened log file Urho3D.log
+[Sat May 19 17:32:17 2018] INFO: Created 3 worker threads
+[Sat May 19 17:32:17 2018] INFO: Added resource path D:/Urho3d/Hello/build/bin/Data/
+[Sat May 19 17:32:17 2018] INFO: Added resource path D:/Urho3d/Hello/build/bin/CoreData/
+[Sat May 19 17:32:17 2018] INFO: Created Direct3D9 device
+[Sat May 19 17:32:17 2018] INFO: Set screen mode 1280x720 windowed monitor 0 resizable
+[Sat May 19 17:32:17 2018] INFO: Initialized input
+[Sat May 19 17:32:17 2018] INFO: Initialized user interface
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Textures/Ramp.png
+[Sat May 19 17:32:17 2018] DEBUG: Loading temporary resource Textures/Ramp.xml
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Textures/Spot.png
+[Sat May 19 17:32:17 2018] DEBUG: Loading temporary resource Textures/Spot.xml
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Techniques/NoTexture.xml
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource RenderPaths/Forward.xml
+[Sat May 19 17:32:17 2018] INFO: Initialized renderer
+[Sat May 19 17:32:17 2018] INFO: Set audio mode 44100 Hz stereo interpolated
+[Sat May 19 17:32:17 2018] INFO: Initialized engine
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource UI/DefaultStyle.xml
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Textures/UI.png
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Fonts/Anonymous Pro.ttf
+[Sat May 19 17:32:17 2018] DEBUG: Font face Anonymous Pro (14pt) has 624 glyphs
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Models/Box.mdl
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Materials/Skybox.xml
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Techniques/DiffSkybox.xml
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Textures/Skybox.xml
+[Sat May 19 17:32:17 2018] DEBUG: Loading temporary resource Textures/BrightDay1_PosX.dds
+[Sat May 19 17:32:17 2018] DEBUG: Loading temporary resource Textures/BrightDay1_NegX.dds
+[Sat May 19 17:32:17 2018] DEBUG: Loading temporary resource Textures/BrightDay1_PosY.dds
+[Sat May 19 17:32:17 2018] DEBUG: Loading temporary resource Textures/BrightDay1_NegY.dds
+[Sat May 19 17:32:17 2018] DEBUG: Loading temporary resource Textures/BrightDay1_PosZ.dds
+[Sat May 19 17:32:17 2018] DEBUG: Loading temporary resource Textures/BrightDay1_NegZ.dds
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Models/Frame.mdl
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Models/Glass.mdl
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Models/torch.mdl
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Materials/torch_coal.xml
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Materials/torch_metal.xml
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Techniques/DiffNormalSpec.xml
+[Sat May 19 17:32:17 2018] DEBUG: Loading resource Textures/torch_metal_diff.png
+[Sat May 19 17:32:18 2018] DEBUG: Loading resource Textures/torch_metal_norm.png
+[Sat May 19 17:32:18 2018] DEBUG: Loading resource Textures/torch_metal_spec.png
+[Sat May 19 17:32:19 2018] DEBUG: Loading resource Materials/torch_wood.xml
+[Sat May 19 17:32:19 2018] DEBUG: Loading resource Textures/torch_wood_diff.png
+[Sat May 19 17:32:20 2018] DEBUG: Loading resource Textures/torch_wood_norm.png
+[Sat May 19 17:32:20 2018] DEBUG: Loading resource Textures/torch_wood_spec.png
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Particle/torch_fire.xml
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Materials/Particle.xml
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Techniques/DiffVColAdd.xml
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Textures/Flare.dds
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Particle/torch_smoke.xml
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Materials/Smoke.xml
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Techniques/DiffVColUnlitAlpha.xml
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Textures/Smoke.dds
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Sounds/torch.ogg
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Materials/sun.xml
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Techniques/DiffUnlitAlpha.xml
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Textures/sun.png
+[Sat May 19 17:32:21 2018] DEBUG: Loading resource Textures/HeightMap.png
+[Sat May 19 17:32:22 2018] DEBUG: Loading resource Materials/Terrain.xml
+[Sat May 19 17:32:22 2018] DEBUG: Loading resource Techniques/TerrainBlend.xml
+[Sat May 19 17:32:22 2018] DEBUG: Loading resource Textures/TerrainWeights.dds
+[Sat May 19 17:32:22 2018] DEBUG: Loading resource Textures/TerrainDetail1.dds
+[Sat May 19 17:32:22 2018] DEBUG: Loading resource Textures/TerrainDetail2.dds
+[Sat May 19 17:32:22 2018] DEBUG: Loading resource Textures/TerrainDetail3.dds
+[Sat May 19 17:32:22 2018] DEBUG: Reloading shaders
+[Sat May 19 17:32:22 2018] DEBUG: Set occlusion buffer size 256x144 with 5 mip levels and 1 thread buffers
+[Sat May 19 17:32:22 2018] DEBUG: Loading resource Shaders/HLSL/Shadow.hlsl
+[Sat May 19 17:32:22 2018] DEBUG: Loading resource Shaders/HLSL/TerrainBlend.hlsl
+[Sat May 19 17:32:22 2018] DEBUG: Loading resource Shaders/HLSL/LitSolid.hlsl
+[Sat May 19 17:32:22 2018] DEBUG: Loading resource Shaders/HLSL/Unlit.hlsl
+[Sat May 19 17:32:22 2018] DEBUG: Loading resource Shaders/HLSL/Skybox.hlsl
+[Sat May 19 17:32:22 2018] DEBUG: Loaded cached vertex shader Shadow()
+[Sat May 19 17:32:22 2018] DEBUG: Loaded cached pixel shader Shadow()
+[Sat May 19 17:32:22 2018] DEBUG: Loaded cached vertex shader LitSolid(DIRLIGHT NOUV PERPIXEL SHADOW)
+[Sat May 19 17:32:22 2018] DEBUG: Loaded cached pixel shader LitSolid(AMBIENT DIRLIGHT PCF_SHADOW PERPIXEL SHADOW)
+[Sat May 19 17:32:22 2018] DEBUG: Loaded cached pixel shader LitSolid(AMBIENT DIRLIGHT PCF_SHADOW PERPIXEL SHADOW SPECULAR)
+[Sat May 19 17:32:22 2018] DEBUG: Loaded cached vertex shader LitSolid(DIRLIGHT NORMALMAP PERPIXEL SHADOW)
+[Sat May 19 17:32:22 2018] DEBUG: Loaded cached pixel shader LitSolid(AMBIENT DIFFMAP DIRLIGHT NORMALMAP PCF_SHADOW PERPIXEL SHADOW SPECMAP SPECULAR)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached vertex shader TerrainBlend(DIRLIGHT PERPIXEL SHADOW)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached pixel shader TerrainBlend(AMBIENT DIRLIGHT PCF_SHADOW PERPIXEL SHADOW SPECULAR)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached vertex shader LitSolid(NOUV PERPIXEL POINTLIGHT SHADOW)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached pixel shader LitSolid(PCF_SHADOW PERPIXEL POINTLIGHT SHADOW)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached pixel shader LitSolid(PCF_SHADOW PERPIXEL POINTLIGHT SHADOW SPECULAR)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached vertex shader LitSolid(NORMALMAP PERPIXEL POINTLIGHT SHADOW)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached pixel shader LitSolid(DIFFMAP NORMALMAP PCF_SHADOW PERPIXEL POINTLIGHT SHADOW SPECMAP SPECULAR)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached vertex shader TerrainBlend(PERPIXEL POINTLIGHT SHADOW)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached pixel shader TerrainBlend(PCF_SHADOW PERPIXEL POINTLIGHT SHADOW SPECULAR)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached vertex shader Skybox()
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached pixel shader Skybox()
+[Sat May 19 17:32:23 2018] DEBUG: Loading resource Shaders/HLSL/Basic.hlsl
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached vertex shader Basic(VERTEXCOLOR)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached pixel shader Basic(VERTEXCOLOR)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached vertex shader Basic(DIFFMAP VERTEXCOLOR)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached pixel shader Basic(DIFFMAP VERTEXCOLOR)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached pixel shader Basic(ALPHAMAP VERTEXCOLOR)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached vertex shader Unlit(BILLBOARD VERTEXCOLOR)
+[Sat May 19 17:32:23 2018] DEBUG: Loaded cached pixel shader Unlit(DIFFMAP VERTEXCOLOR)

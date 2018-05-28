@@ -1,0 +1,59 @@
+﻿Build started 5/28/2018 10:49:32 PM.
+     1>Project "D:\Urho3d\Hello\build\Hello.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Urho3D-1.7\Build\include" /I"C:\Urho3D-1.7\Build\include\Urho3D\ThirdParty" /I"C:\Urho3D-1.7\Build\include\Urho3D\ThirdParty\Bullet" /I"C:\Urho3D-1.7\Build\include\Urho3D\ThirdParty\Lua" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D URHO3D_SSE /D URHO3D_WIN32_CONSOLE /D URHO3D_PROFILING /D URHO3D_LOGGING /D URHO3D_THREADING /D URHO3D_STATIC_DEFINE /D URHO3D_ANGELSCRIPT /D URHO3D_LUA /D TOLUA_RELEASE /D URHO3D_NAVIGATION /D URHO3D_NETWORK /D URHO3D_PHYSICS /D URHO3D_URHO2D /D _CRT_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Hello.dir\Debug\\" /Fd"Hello.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt D:\Urho3d\Hello\main.cpp
+         main.cpp
+     1>C:\Urho3D-1.7\Build\include\Urho3D/Urho3D.h(35): warning C4005: 'URHO3D_STATIC_DEFINE' : macro redefinition
+                 command-line arguments :  see previous definition of 'URHO3D_STATIC_DEFINE'
+     1>C:\Urho3D-1.7\Build\include\Urho3D/Urho3D.h(38): warning C4005: 'URHO3D_SSE' : macro redefinition
+                 command-line arguments :  see previous definition of 'URHO3D_SSE'
+     1>C:\Urho3D-1.7\Build\include\Urho3D\ThirdParty\Bullet/LinearMath/btIDebugDraw.h(173): warning C4305: 'argument' : truncation from 'double' to 'const btScalar'
+     1>C:\Urho3D-1.7\Build\include\Urho3D\ThirdParty\Bullet/LinearMath/btIDebugDraw.h(174): warning C4305: 'argument' : truncation from 'double' to 'const btScalar'
+     1>C:\Urho3D-1.7\Build\include\Urho3D\ThirdParty\Bullet/LinearMath/btIDebugDraw.h(175): warning C4305: 'argument' : truncation from 'double' to 'const btScalar'
+     1>D:\Urho3d\Hello\main.cpp(139): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(147): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(149): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(202): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(207): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(225): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(243): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(248): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(265): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(270): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(271): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(288): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>D:\Urho3d\Hello\main.cpp(291): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>D:\Urho3d\Hello\main.cpp(354): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(369): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(376): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(507): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(511): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(512): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(513): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(514): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(572): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>D:\Urho3d\Hello\main.cpp(683): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>D:\Urho3d\Hello\main.cpp(684): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>D:\Urho3d\Hello\main.cpp(694): warning C4267: 'argument' : conversion from 'size_t' to 'unsigned int', possible loss of data
+     1>D:\Urho3d\Hello\main.cpp(848): warning C4267: 'argument' : conversion from 'size_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Urho3d\Hello\build\bin\Hello_d.exe" /INCREMENTAL /NOLOGO "C:\Urho3D-1.7\Build\lib\Urho3D_d.lib" user32.lib gdi32.lib winmm.lib imm32.lib ole32.lib oleaut32.lib version.lib uuid.lib ws2_32.lib winmm.lib d3d9.lib d3dcompiler.lib imm32.lib ole32.lib oleaut32.lib version.lib uuid.lib ws2_32.lib d3d9.lib d3dcompiler.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Urho3d/Hello/build/bin/Hello_d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Urho3d/Hello/build/Debug/Hello_d.lib" /MACHINE:X64  /machine:x64 Hello.dir\Debug\TailGenerator.obj
+         Hello.dir\Debug\main.obj
+            Creating library D:/Urho3d/Hello/build/Debug/Hello_d.lib and object D:/Urho3d/Hello/build/Debug/Hello_d.exp
+         Hello.vcxproj -> D:\Urho3d\Hello\build\bin\Hello_d.exe
+       PostBuildEvent:
+         setlocal
+         "C:\Program Files\CMake\bin\cmake.exe" -E copy_if_different "C:/Program Files (x86)/Windows Kits/8.1/Redist/D3D/x64/d3dcompiler_47.dll" D:/Urho3d/Hello/build/bin
+         if %errorlevel% neq 0 goto :cmEnd
+         :cmEnd
+         endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+         :cmErrorLevel
+         exit /b %1
+         :cmDone
+         if %errorlevel% neq 0 goto :VCEnd
+         :VCEnd
+     1>Done Building Project "D:\Urho3d\Hello\build\Hello.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.10

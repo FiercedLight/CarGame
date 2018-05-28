@@ -1,0 +1,26 @@
+﻿Build started 5/21/2018 11:25:47 PM.
+     1>Project "D:\Urho3d\Hello\build\ZERO_CHECK.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake is re-running because D:/Urho3d/Hello/build/CMakeFiles/generate.stamp is out-of-date.
+           the file 'D:/Urho3d/Hello/CMakeLists.txt'
+           is newer than 'D:/Urho3d/Hello/build/CMakeFiles/generate.stamp.depend'
+           result='-1'
+         CMake Deprecation Warning at CMakeLists.txt:16 (cmake_policy):
+           The OLD behavior for policy CMP0026 will be removed from a future version
+           of CMake.
+         
+           The cmake-policies(7) manual explains that the OLD behaviors of all
+           policies are deprecated and that a policy should be set to OLD only under
+           specific short-term circumstances.  Projects should be ported to the NEW
+           behavior and not rely on setting a policy to OLD.
+         
+         
+         -- Configuring done
+         -- Generating done
+         -- Build files have been written to: D:/Urho3d/Hello/build
+     1>Done Building Project "D:\Urho3d\Hello\build\ZERO_CHECK.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.13

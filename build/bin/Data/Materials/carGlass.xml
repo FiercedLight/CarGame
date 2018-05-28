@@ -1,0 +1,5 @@
+<material>
+	<technique name="Techniques/DiffMultiply.xml"/>
+	<parameter name="MatDiffColor" value="2.0 1.3 3.1 1"/>
+	<parameter name="MatSpecColor" value="4 4 4 100"/>
+</material>

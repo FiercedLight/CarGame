@@ -1,0 +1,164 @@
+[Mon May 28 22:49:36 2018] INFO: Opened log file Urho3D.log
+[Mon May 28 22:49:36 2018] INFO: Created 3 worker threads
+[Mon May 28 22:49:36 2018] INFO: Added resource path D:/Urho3d/Hello/build/bin/Data/
+[Mon May 28 22:49:36 2018] INFO: Added resource path D:/Urho3d/Hello/build/bin/CoreData/
+[Mon May 28 22:49:36 2018] INFO: Created Direct3D9 device
+[Mon May 28 22:49:36 2018] INFO: Set screen mode 1280x720 windowed monitor 0 resizable
+[Mon May 28 22:49:36 2018] INFO: Initialized input
+[Mon May 28 22:49:36 2018] INFO: Initialized user interface
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Textures/Ramp.png
+[Mon May 28 22:49:36 2018] DEBUG: Loading temporary resource Textures/Ramp.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Textures/Spot.png
+[Mon May 28 22:49:36 2018] DEBUG: Loading temporary resource Textures/Spot.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Techniques/NoTexture.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource RenderPaths/Forward.xml
+[Mon May 28 22:49:36 2018] INFO: Initialized renderer
+[Mon May 28 22:49:36 2018] INFO: Set audio mode 44100 Hz stereo interpolated
+[Mon May 28 22:49:36 2018] INFO: Initialized engine
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource UI/DefaultStyle.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource PostProcess/AutoExposure.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource PostProcess/BloomHDR_stronger.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource PostProcess/FXAA2.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Textures/UI.png
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Fonts/Anonymous Pro.ttf
+[Mon May 28 22:49:36 2018] DEBUG: Font face Anonymous Pro (14pt) has 624 glyphs
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Models/Box.mdl
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Materials/Skybox.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Techniques/DiffSkybox.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Textures/Skybox.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading temporary resource Textures/BrightDay1_PosX.dds
+[Mon May 28 22:49:36 2018] DEBUG: Loading temporary resource Textures/BrightDay1_NegX.dds
+[Mon May 28 22:49:36 2018] DEBUG: Loading temporary resource Textures/BrightDay1_PosY.dds
+[Mon May 28 22:49:36 2018] DEBUG: Loading temporary resource Textures/BrightDay1_NegY.dds
+[Mon May 28 22:49:36 2018] DEBUG: Loading temporary resource Textures/BrightDay1_PosZ.dds
+[Mon May 28 22:49:36 2018] DEBUG: Loading temporary resource Textures/BrightDay1_NegZ.dds
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Sounds/turbo_hold.wav
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Sounds/engine.wav
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Sounds/turbo_release_1.wav
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Sounds/turbo_release_2.wav
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Sounds/turbo_release_3.wav
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Materials/TailGenerator.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Techniques/DiffVColAddAlpha.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Textures/TailGenerator.png
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Models/Subamru/Hull.mdl
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Materials/BrightRed.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Models/Subamru/Pipeline.mdl
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Materials/Black_RedSpec.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Models/Subamru/Windows.mdl
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Materials/Glass.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Models/torch.mdl
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Particle/torch_fire.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Materials/Particle.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Techniques/DiffVColAdd.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Textures/Flare.dds
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Particle/torch_smoke.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Materials/Smoke.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Techniques/DiffVColUnlitAlpha.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Textures/Smoke.dds
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Sounds/torch.ogg
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Materials/sun.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Techniques/DiffUnlitAlpha.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Textures/sun.png
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Models/bowltrack.mdl
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Materials/StoneTiled.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Techniques/DiffNormal.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Techniques/Diff.xml
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Textures/StoneDiffuse.dds
+[Mon May 28 22:49:36 2018] DEBUG: Loading resource Textures/StoneNormal.dds
+[Mon May 28 22:49:37 2018] DEBUG: Reloading shaders
+[Mon May 28 22:49:37 2018] DEBUG: Loading resource Shaders/HLSL/Shadow.hlsl
+[Mon May 28 22:49:37 2018] DEBUG: Loading resource Shaders/HLSL/LitSolid.hlsl
+[Mon May 28 22:49:37 2018] DEBUG: Loading resource Shaders/HLSL/Unlit.hlsl
+[Mon May 28 22:49:37 2018] DEBUG: Loading resource Shaders/HLSL/Skybox.hlsl
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 1280x720 format 22
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 1280x720 format 22
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 128x128 format 113
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 64x64 format 112
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 16x16 format 112
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 4x4 format 112
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 1x1 format 112
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 1x1 format 112
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 1x1 format 112
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 640x360 format 113
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 320x180 format 113
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 160x90 format 113
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 80x45 format 113
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 640x360 format 113
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 320x180 format 113
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 160x90 format 113
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 80x45 format 113
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader Shadow()
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader Shadow()
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader LitSolid(DIRLIGHT NOUV PERPIXEL SHADOW)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader LitSolid(AMBIENT DIRLIGHT PCF_SHADOW PERPIXEL SHADOW)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader LitSolid(AMBIENT DIRLIGHT PCF_SHADOW PERPIXEL SHADOW SPECULAR)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader LitSolid(DIRLIGHT NORMALMAP PERPIXEL SHADOW)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader LitSolid(AMBIENT DIFFMAP DIRLIGHT NORMALMAP PACKEDNORMAL PCF_SHADOW PERPIXEL SHADOW SPECULAR)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader LitSolid(NOUV PERPIXEL POINTLIGHT SHADOW)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader LitSolid(PCF_SHADOW PERPIXEL POINTLIGHT SHADOW)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader LitSolid(PCF_SHADOW PERPIXEL POINTLIGHT SHADOW SPECULAR)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader LitSolid(NORMALMAP PERPIXEL POINTLIGHT SHADOW)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader LitSolid(DIFFMAP NORMALMAP PACKEDNORMAL PCF_SHADOW PERPIXEL POINTLIGHT SHADOW SPECULAR)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader Skybox()
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader Skybox()
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 128x128 format 75
+[Mon May 28 22:49:37 2018] DEBUG: Loading resource Shaders/HLSL/CopyFramebuffer.hlsl
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader CopyFramebuffer()
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader CopyFramebuffer()
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 64x64 format 75
+[Mon May 28 22:49:37 2018] DEBUG: Loading resource Shaders/HLSL/AutoExposure.hlsl
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader AutoExposure(LUMINANCE64)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader AutoExposure(LUMINANCE64)
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 16x16 format 75
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader AutoExposure(LUMINANCE16)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader AutoExposure(LUMINANCE16)
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 4x4 format 75
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader AutoExposure(LUMINANCE4)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader AutoExposure(LUMINANCE4)
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 1x1 format 75
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader AutoExposure(LUMINANCE1)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader AutoExposure(LUMINANCE1)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader AutoExposure(ADAPTLUMINANCE)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader AutoExposure(ADAPTLUMINANCE)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader AutoExposure(EXPOSE)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader AutoExposure(EXPOSE)
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 640x360 format 75
+[Mon May 28 22:49:37 2018] DEBUG: Loading resource Shaders/HLSL/BloomHDR.hlsl
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader BloomHDR(BRIGHT)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader BloomHDR(BRIGHT)
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 320x180 format 75
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 160x90 format 75
+[Mon May 28 22:49:37 2018] DEBUG: Allocated new screen buffer size 80x45 format 75
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader BloomHDR(BLUR16)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader BloomHDR(BLUR16)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader BloomHDR(COMBINE16)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader BloomHDR(COMBINE16)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader BloomHDR(BLUR8)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader BloomHDR(BLUR8)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader BloomHDR(COMBINE8)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader BloomHDR(COMBINE8)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader BloomHDR(BLUR4)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader BloomHDR(BLUR4)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader BloomHDR(COMBINE4)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader BloomHDR(COMBINE4)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader BloomHDR(BLUR2)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader BloomHDR(BLUR2)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader BloomHDR(COMBINE2)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader BloomHDR(COMBINE2)
+[Mon May 28 22:49:37 2018] DEBUG: Loading resource Shaders/HLSL/FXAA2.hlsl
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader FXAA2()
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader FXAA2()
+[Mon May 28 22:49:37 2018] DEBUG: Loading resource Shaders/HLSL/Basic.hlsl
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader Basic(VERTEXCOLOR)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader Basic(VERTEXCOLOR)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader Basic(DIFFMAP VERTEXCOLOR)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader Basic(DIFFMAP VERTEXCOLOR)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader Basic(ALPHAMAP VERTEXCOLOR)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached vertex shader Unlit(BILLBOARD VERTEXCOLOR)
+[Mon May 28 22:49:37 2018] DEBUG: Loaded cached pixel shader Unlit(DIFFMAP VERTEXCOLOR)
+[Mon May 28 22:49:39 2018] DEBUG: Loaded cached vertex shader Unlit(BILLBOARD)
+[Mon May 28 22:49:39 2018] DEBUG: Loaded cached pixel shader Unlit(DIFFMAP)
+[Mon May 28 22:49:40 2018] DEBUG: Loaded cached vertex shader Unlit(VERTEXCOLOR)
+[Mon May 28 22:50:07 2018] DEBUG: Loaded cached vertex shader LitSolid(NORMALMAP PERPIXEL POINTLIGHT)
+[Mon May 28 22:50:07 2018] DEBUG: Loaded cached pixel shader LitSolid(DIFFMAP NORMALMAP PACKEDNORMAL PERPIXEL POINTLIGHT SPECULAR)
+[Mon May 28 22:50:08 2018] DEBUG: Quitting SDL

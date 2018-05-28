@@ -1,0 +1,3 @@
+D:/Urho3d/Hello/build/CMakeFiles/Hello.dir
+D:/Urho3d/Hello/build/CMakeFiles/ALL_BUILD.dir
+D:/Urho3d/Hello/build/CMakeFiles/ZERO_CHECK.dir

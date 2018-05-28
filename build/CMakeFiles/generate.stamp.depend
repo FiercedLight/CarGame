@@ -1,0 +1,36 @@
+# CMake generation dependency list for this directory.
+D:/Urho3d/Hello/CMakeLists.txt
+D:/Urho3d/Hello/build/CMakeFiles/3.11.0-rc1/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Urho3d/Hello/build/CMakeFiles/3.11.0-rc1/CMakeCCompiler.cmake
+D:/Urho3d/Hello/build/CMakeFiles/3.11.0-rc1/CMakeCXXCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Platform/Windows-MSVC.cmake
+D:/Urho3d/Hello/build/CMakeFiles/3.11.0-rc1/CMakeRCCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeCommonLanguageInclude.cmake
+D:/Urho3d/Hello/CMake/Modules/Urho3D-CMake-common.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeDependentOption.cmake
+D:/Urho3d/Hello/CMake/Modules/FindDirect3D.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageMessage.cmake
+D:/Urho3d/Hello/CMake/Modules/GenerateExportHeader.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+D:/Urho3d/Hello/CMake/Modules/FindUrho3D.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageMessage.cmake
